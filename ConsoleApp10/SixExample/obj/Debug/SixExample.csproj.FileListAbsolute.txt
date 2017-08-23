@@ -1,0 +1,5 @@
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\SixExample\bin\Debug\SixExample.exe.config
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\SixExample\bin\Debug\SixExample.exe
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\SixExample\bin\Debug\SixExample.pdb
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\SixExample\obj\Debug\SixExample.exe
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\SixExample\obj\Debug\SixExample.pdb

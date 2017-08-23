@@ -1,0 +1,6 @@
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\TenExample\bin\Debug\TenExample.exe.config
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\TenExample\bin\Debug\TenExample.exe
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\TenExample\bin\Debug\TenExample.pdb
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\TenExample\obj\Debug\TenExample.csprojResolveAssemblyReference.cache
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\TenExample\obj\Debug\TenExample.exe
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\TenExample\obj\Debug\TenExample.pdb

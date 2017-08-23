@@ -1,0 +1,6 @@
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\ThirdExample\bin\Debug\ThirdExample.exe.config
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\ThirdExample\bin\Debug\ThirdExample.exe
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\ThirdExample\bin\Debug\ThirdExample.pdb
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\ThirdExample\obj\Debug\ThirdExample.csprojResolveAssemblyReference.cache
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\ThirdExample\obj\Debug\ThirdExample.exe
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\ThirdExample\obj\Debug\ThirdExample.pdb

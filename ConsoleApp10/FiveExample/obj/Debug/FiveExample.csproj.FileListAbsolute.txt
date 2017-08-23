@@ -1,0 +1,5 @@
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\FiveExample\bin\Debug\FiveExample.exe.config
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\FiveExample\bin\Debug\FiveExample.exe
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\FiveExample\bin\Debug\FiveExample.pdb
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\FiveExample\obj\Debug\FiveExample.exe
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\FiveExample\obj\Debug\FiveExample.pdb

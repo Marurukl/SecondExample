@@ -1,0 +1,5 @@
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\SevenExemple\bin\Debug\SevenExemple.exe.config
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\SevenExemple\bin\Debug\SevenExemple.exe
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\SevenExemple\bin\Debug\SevenExemple.pdb
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\SevenExemple\obj\Debug\SevenExemple.exe
+C:\Users\закарьянова\Documents\GitHub\ConsoleApp10\SevenExemple\obj\Debug\SevenExemple.pdb
